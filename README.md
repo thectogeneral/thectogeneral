@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/Age-24-blue" />
   <img src="https://img.shields.io/badge/Focus-Open%20Source-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-Nigeria-success" />
-  <img src="https://img.shields.io/badge/Languages-English-brightgreen" />
+  <img src="https://img.shields.io/badge/Language-English-brightgreen" />
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am The CTO General </h1>
