@@ -15,12 +15,9 @@
 <h3 align="center">Software Engineer | Open Source | DevOps </h3>
 
 <p align="center">
-  <em>
-    Hello, My name is Salem Olorundare, a <b>Software Enginnering</b> professional from <b>Africa</b>. <br>
-  <br>
-   <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b>
+    Hello, My name is Salem Olorundare, a <b>Software Engineer
 </p>
-<br><br>
+<br>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
