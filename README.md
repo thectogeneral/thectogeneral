@@ -13,12 +13,12 @@
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-brightgreen" />
 </p>
 <hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Ovindu Wijethunge </h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am The CTO General </h1>
 <h3 align="center">Software Engineer </h3>
 <h3 align="center">Web3 | Web development | Open Source | Systems Architect | DevOps </h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/ovinduwijethunge/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a>  
-<a href="https://www.instagram.com/thectogneral/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="insta_ovindu" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ovinduwijethunge/](https://www.linkedin.com/in/salem-olorundare/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="salem olorundare" height="30" width="40" /></a>  
+<a href="https://www.instagram.com/thectogneral/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="the cto general" height="30" width="40" /></a>
  <a href = "mailto: salemolorundare@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
 </p>
 </p>
@@ -27,7 +27,7 @@
 
 <p align="center">
   <em>
-    Hello, I am Salem Olorundare a <b>Software Enginnering</b> professional from <b>African</b>. <br>
+    Hello, My name is Salem Olorundare, a <b>Software Enginnering</b> professional from <b>African</b>. <br>
   <br>
   <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 </p>
