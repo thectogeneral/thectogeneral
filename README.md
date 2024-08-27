@@ -12,7 +12,7 @@
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Salem </h1>
-<h4>(<a href="https://x.com/thectogeneral">thectogeneral</a>)</h4>
+<h4 align="center">(<a href="https://x.com/thectogeneral">thectogeneral</a>)</h4>
 <p align="center">A Software Engineer Expert</p>
 <br>
 
