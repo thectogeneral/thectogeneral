@@ -5,7 +5,6 @@
  </p>
  <p align="center">
   <img src="https://komarev.com/ghpvc/?username=incredible-phoenix246&color=brightgreen" alt="watching_count" />
-   <p> </p>
   <img src="https://img.shields.io/badge/Age-24-blue" />
   <img src="https://img.shields.io/badge/Focus-Open%20Source-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-Nigeria-success" />
