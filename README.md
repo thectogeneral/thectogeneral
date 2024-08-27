@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Language-English-brightgreen" />
 </p>
 <hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am The CTO General </h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Salem(<a href="https://x.com/thectogeneral">thectogeneral</a>) </h1>
 <h3 align="center">Open Source | DevOps | Web3 </h3>
 
 <p align="center">
