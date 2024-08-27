@@ -22,8 +22,3 @@
 <p align="center">
  <img src="https://github-profile-trophy.vercel.app/?username=thectogeneral&theme=juicyfresh&no-bg=true" />
 </p>
-
-
-
-
-
