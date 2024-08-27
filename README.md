@@ -16,10 +16,8 @@
 <p align="center">A Software Engineer Expert</p>
 <br>
 
-
-
 <p align="center">
- <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><be>
+ <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p>
 
 <p align="center">
  <img src="https://github-profile-trophy.vercel.app/?username=thectogeneral&theme=juicyfresh&no-bg=true" />
