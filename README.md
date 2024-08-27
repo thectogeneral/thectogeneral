@@ -28,7 +28,7 @@
 
 <p align="center">
   <em>
-    Hello, My name is Salem Olorundare, a <b>Software Enginnering</b> professional from <b>African</b>. <br>
+    Hello, My name is Salem Olorundare, a <b>Software Enginnering</b> professional from <b>Africa</b>. <br>
   <br>
   <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 </p>
