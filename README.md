@@ -14,6 +14,10 @@
 <p align="center">7x Software Development Expert - (<a href="https://x.com/thectogeneral">thectogeneral</a>)</p>
 <br>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thectogeneral&show_icons=true&locale=en&layout=compact&theme=onedark" alt="yczar" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thectogeneral&show_icons=true&locale=en&theme=onedark" alt="yczar" /></p>
+
 <p align="center">
  <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p>
 
