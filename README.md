@@ -23,10 +23,8 @@
  <img src="https://github-profile-trophy.vercel.app/?username=thectogeneral&theme=juicyfresh&no-bg=true" />
 </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thectogeneral&theme=onedark" alt="thectogeneral" /></p>
----
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thectogeneral&show_icons=true&locale=en&layout=compact&theme=onedark" alt="thectogeneral" /></p>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thectogeneral&show_icons=true&locale=en&theme=onedark" alt="thectogeneral" /></p>
 ---
 
 <h3 align="left">Connect with me:</h3>
