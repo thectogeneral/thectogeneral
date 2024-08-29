@@ -28,7 +28,7 @@
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thectogeneral&theme=onedark" alt="thectogeneral" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yczar&show_icons=true&locale=en&theme=onedark" alt="yczar" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thectogeneral&show_icons=true&locale=en&theme=onedark" alt="thectogeneral" />
 </p>
 
 <p>
