@@ -26,8 +26,11 @@
 ---
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thectogeneral&theme=onedark" alt="thectogeneral" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thectogeneral&show_icons=true&locale=en&layout=compact&theme=onedark" alt="thectogeneral" /></p>
+
 ---
+
 <br>
+
 <h3 align="left">Connect with me:</h3>
 
 [![](https://img.shields.io/badge/twitter-12100E?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/thectogeneral) [![](https://img.shields.io/badge/instagram-12100E?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/thectogeneral)
