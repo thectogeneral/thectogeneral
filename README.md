@@ -11,7 +11,7 @@
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Salem </h1>
-<p align="center">7x Software Development Expert -> <a href="https://x.com/thectogeneral">thectogeneral</a></p>
+<p align="center">7x Software Development Expert --> <a href="https://x.com/thectogeneral">The CTO General</a></p>
 <br>
 
 ---
