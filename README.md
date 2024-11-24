@@ -6,7 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=thectogeneral&color=brightgreen" alt="watching_count" />
   <img src="https://img.shields.io/badge/Age-24-blue" />
   <img src="https://img.shields.io/badge/Focus-Open%20Source-brightgreen" />
-  <img src="https://img.shields.io/badge/Lives-Nigeria-success" />
   <img src="https://img.shields.io/badge/Language-English-brightgreen" />
 </p>
 <hr>
