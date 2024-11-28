@@ -10,17 +10,6 @@
 <p align="center">Software Development Expert --> <a href="https://x.com/thectogeneral">The CTO General</a></p>
 <br>
 
----
-
-<p align="center">
- <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p>
-
-<p align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=thectogeneral&theme=juicyfresh&no-bg=true" />
-</p>
-
----
-
 <br>
 
 <h3 align="left">Connect with me:</h3>
